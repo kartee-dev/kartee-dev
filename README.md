@@ -13,28 +13,28 @@
 
 C++ 위주로 공부한 내용은 [블로그](https://ka7-coding.tistory.com/)에 적어 둡니다.
 
+## 지금까지
+
+<img src="assets/timeline.svg" width="100%" alt="부산대 1·2학년, 2025년 2월 입대, 2026년 8월 전역, 지금 부산 PRE-SOMA 팀장, 2027년 3월 3학년 복학" />
+
 <table>
   <tr>
-    <td align="center" width="25%"><sub>2학년 마치고</sub><br />입대</td>
-    <td align="center" width="25%"><sub>2026.08</sub><br />전역</td>
-    <td align="center" width="25%"><sub>지금</sub><br />부산 PRE-SOMA 팀장</td>
-    <td align="center" width="25%"><sub>2027.03</sub><br />3학년 복학</td>
+    <td width="50%" valign="top">
+      <h3>군에 있을 때</h3>
+      <img src="https://img.shields.io/badge/소장급_상장-수상-fb923c?style=flat-square&labelColor=0f172a" alt="소장급 상장 수상" height="20" />
+      <img src="https://img.shields.io/badge/지상군_페스티벌-참가-fb923c?style=flat-square&labelColor=334155" alt="지상군 페스티벌 참가" height="20" />
+      <p>2학년을 마치고 2025년 2월에 입대했습니다.</p>
+      <p>밀리패스는 군 장병과 가족, 군무원을 위한 모바일 신분인증·복지 플랫폼입니다. 이 앱과 마케팅 블로그를 기획했습니다. 코딩도 했고, 전화 민원 상담도 했습니다.</p>
+      <p>밀리패스 업무 추진 유공으로 소장급 상장을 받았습니다.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>전역하고 나서</h3>
+      <img src="https://img.shields.io/badge/부산_PRE--SOMA-팀장-fb923c?style=flat-square&labelColor=0f172a" alt="부산 PRE-SOMA 팀장" height="20" />
+      <img src="https://img.shields.io/badge/2027.03-3학년_복학-fb923c?style=flat-square&labelColor=334155" alt="2027년 3월 3학년 복학" height="20" />
+      <p>AI·SW 마에스트로 예비캠프에서 팀을 맡고 있습니다. 아래 정리함이 저희 팀 프로젝트입니다.</p>
+    </td>
   </tr>
 </table>
-
-PRE-SOMA는 AI·SW 마에스트로 예비캠프입니다.
-
-## 군에 있을 때
-
-밀리패스 앱과 마케팅 블로그를 기획했습니다. 코딩도 했고, 전화 민원 상담도 했습니다.
-
-지상군 페스티벌에 나갔고, 소장급 상장을 받았습니다.
-
-## 쓰는 도구
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,unreal,androidstudio,discord,git,github&perline=7" alt="C++, Python, Unreal Engine, Android Studio, Discord, Git, GitHub" />
-</p>
 
 ## 만들고 있는 것
 
@@ -53,6 +53,7 @@ PRE-SOMA는 AI·SW 마에스트로 예비캠프입니다.
       <p>혼자 만들면서 테스트하는 앱입니다.</p>
     </td>
   </tr>
+  <tr></tr>
   <tr>
     <td width="50%" valign="top">
       <h3>게임 제보 · AI 수정 요청 정리함</h3>
@@ -70,6 +71,20 @@ PRE-SOMA는 AI·SW 마에스트로 예비캠프입니다.
     </td>
   </tr>
 </table>
+
+## 쓰는 도구
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><sub>언어</sub><br /><img src="https://skillicons.dev/icons?i=cpp,py" alt="C++, Python" height="44" /></td>
+    <td align="center"><sub>게임</sub><br /><img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" height="44" /></td>
+    <td align="center"><sub>앱</sub><br /><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="44" /></td>
+    <td align="center"><sub>봇</sub><br /><img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="44" /></td>
+    <td align="center"><sub>협업</sub><br /><img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" height="44" /></td>
+  </tr>
+</table>
+</div>
 
 <br />
 
